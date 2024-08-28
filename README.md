@@ -18,7 +18,7 @@
 [![Contact](https://img.shields.io/badge/jhoncorner548@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:jhoncorner548@gmail.com)
 
 [![Twitter](https://img.shields.io/badge/@_Adnan548-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_Adnan548)
-[![Linkedin](https://img.shields.io/badge/Himanshu_Sharma-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-ahmed-431328264/) 
+[![Linkedin](https://img.shields.io/badge/Adnan_Ahmed-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-ahmed-431328264/) 
 [![Stack Overflow](https://img.shields.io/badge/Adnan_Ahmed-393939?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22979298/adnan-ahmed)
 <br>
 
