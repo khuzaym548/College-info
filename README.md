@@ -2,7 +2,6 @@
 <p align="center"><h1 align="center"><samp> I am Adnan Ahmed </samp></h1></p>
 <p align="center"><h4 align="center"><samp> Currently persuing a Bachelor's in Computer Science with specialisation of AI & ML. </samp></h4></p>
 <br>
-##
 
 <h4><b><samp>Programming Languages</samp></b></h4>
 
@@ -19,10 +18,10 @@
 [![Contact](https://img.shields.io/badge/jhoncorner548@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:jhoncorner548@gmail.com)
 
 [![Twitter](https://img.shields.io/badge/@_Adnan548-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_Adnan548)
-[![Linkedin](https://img.shields.io/badge/Adnan_Ahmed-0077b5?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/himanshusharma89](https://www.linkedin.com/in/adnan-ahmed-431328264/) 
+[![Linkedin](https://img.shields.io/badge/Himanshu_Sharma-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-ahmed-431328264/) 
 [![Stack Overflow](https://img.shields.io/badge/Adnan_Ahmed-393939?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22979298/adnan-ahmed)
 
-<p align="center"><samp><b> Thank You for visiting  </b></samp></p>
+<p align="center"><samp><h4><b> Thank You for reading with patience  </b></h4></samp></p>
 
 
 
