@@ -21,7 +21,7 @@
 [![Linkedin](https://img.shields.io/badge/Himanshu_Sharma-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-ahmed-431328264/) 
 [![Stack Overflow](https://img.shields.io/badge/Adnan_Ahmed-393939?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22979298/adnan-ahmed)
 
-<p align="center"><samp><h4><b> Thank You for reading with patience  </b></h4></samp></p>
+<p align="center"><h3 align="center"><samp> Thank You for reading with patience </samp></h3></p>
 
 
 
